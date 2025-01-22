@@ -13,7 +13,7 @@ function App() {
         setLoading(false);
       })
   }, []); 
-
+  
   return (
     <div>
       <h1>Random Dog Image</h1>
